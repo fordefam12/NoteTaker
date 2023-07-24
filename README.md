@@ -39,6 +39,7 @@ type a note title and a note text to see save button in top right corner
 
 keeping track of notes for studying purposes
 
+
 ## Contributors
 Sucheta Mukherjee
 
