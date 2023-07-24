@@ -43,7 +43,7 @@ keeping track of notes for studying purposes
 Sucheta Mukherjee
 
 ## License
-n/a
+![aos logo](<aos logo.svg.png>)
 
 
 ## badges
