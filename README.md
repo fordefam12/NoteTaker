@@ -61,7 +61,7 @@ Any questions about this project please send me a message on *https://github.com
 ## URL
 
   Heroku link
-  https://dashboard.heroku.com/apps/bsnotetaker
+  https://bsnotetaker-3dc46e495bfd.herokuapp.com/notes
 
   Github link 
   https://github.com/fordefam12/NoteTaker
