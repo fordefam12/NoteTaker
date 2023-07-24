@@ -30,7 +30,10 @@
 
 ## Installation
 
-open terminal on server.js and input nodemon server.js...open in browser and select get started...type a note title and a note text to to see save button in top right corner
+open terminal on server.js...
+input nodemon server.js...
+open in browser and select get started...
+type a note title and a note text to see save button in top right corner
 
 ## Usage
 
@@ -55,8 +58,14 @@ yes
 Any questions about this project please send me a message on *https://github.com/fordefam12 or email me at [fordefam12@gmail.com]
 
 ## URL
-  
-![QR code](<frame (2).png>)
+
+  Heroku link
+  https://dashboard.heroku.com/apps/bsnotetaker
+
+  Github link 
+  https://github.com/fordefam12/NoteTaker
+
+![QR code](<frame (4).png>)
 
 ## Screenshots
 
